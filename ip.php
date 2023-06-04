@@ -1,11 +1,11 @@
 <?php
 
-# ip.php by KasRoudra
-# Author   : KasRoudra
-# Github   : https://github.com/KasRoudra
-# Email    : kasroudrard@gmail.com
-# Messenger: https//m.me/KasRoudra
-# Date     : 5-09-2021
+# ip.php by shakti biplab
+# Author     : LUCIFERGREYHAT1
+# Version    : 1
+# License    : MIT
+# Copyright  : LUCIFERGREYHAT1 (2021-2022)
+# Github     : https://github.com/LUCIFERGREYHAT1
 
 error_reporting(E_ERROR | E_PARSE);
 
