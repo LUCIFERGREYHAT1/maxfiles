@@ -253,7 +253,7 @@
       "name": "Pubg",
       "choice": "35",
       "folder": "login_pubg",
-      "mask": "https://get-unlimited-diamonds-in-your-pubg-account",
+      "mask": "https://get-unlimited-uc-in-your-pubg-account",
       "redirect": "https://www.pubgmobile.com"
     },
     {
@@ -543,6 +543,13 @@
       "folder": "custom",
       "mask": "custom"
     }
+    {
+      "name": "BGMI",
+      "choice": "77",
+      "folder": "login_bgmi",
+      "mask": "https://get-unlimited-uc-in-your-bgmi-account",
+      "redirect": "https://www.battlegroundsmobileindia.com"
+    },
   ],
   "Image": [
     {
